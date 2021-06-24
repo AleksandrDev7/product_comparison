@@ -1,0 +1,26 @@
+@import "comparePage.scss";
+@import "header.scss";
+@import "footer.scss";
+@import "normalize.scss";
+
+body {
+  font-family: Montserrat, sans-serif;
+}
+
+.wrapper {
+  max-width: 1520px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+h2 {
+  font-size: 32px;
+  line-height: 39px;
+  font-weight: 600;
+}
+
+section {
+  padding: 30px 0 30px 0;
+  width: 100%;
+  background-color: #f6f6f6;
+}
